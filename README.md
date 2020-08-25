@@ -1,4 +1,4 @@
-# pulsingroom
+# Pulsing Room
 
 
 ## Project Description:
